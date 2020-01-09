@@ -1,7 +1,27 @@
-.navbar-default {
-  
+.panel {
+  margin: 2px;
 }
 
-#sidebar h1 {
+.sidebar h1 {
   font-size: 100%;
+}
+
+.middle {
+  height: 566px;
+}
+
+.sidebar ul{
+  height: 100%;
+}
+
+.col-md-7 {
+  padding: 1px;
+}
+
+.col-md-5 {
+  padding: 1px;
+}
+
+.welcome {
+  background-color: lightgrey;
 }
