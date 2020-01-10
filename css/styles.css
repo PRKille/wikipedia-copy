@@ -11,7 +11,7 @@
 }
 
 .sidebar ul{
-  height: 100%;
+  list-style: none;
 }
 
 .col-md-7 {
@@ -24,4 +24,24 @@
 
 .welcome {
   background-color: lightgrey;
+}
+
+.sidebar img {
+  width: 169px;
+}
+
+hr {
+  width: 80%;
+}
+
+body {
+  background-image: linear-gradient(white, lightgrey)
+}
+
+.nav-tabs {
+  background-image: linear-gradient(white, lightblue)
+}
+
+.article {
+  background-color: white;
 }
