@@ -18,8 +18,20 @@
   padding: 1px;
 }
 
+.col-md-7 h2 {
+  background-color: #75D984;
+}
+
 .col-md-5 {
   padding: 1px;
+}
+
+.col-md-5 h2 {
+  background-color: #75CAD9;
+}
+
+.col-md-12 h2 {
+  background-color: #D97575;
 }
 
 .welcome {
